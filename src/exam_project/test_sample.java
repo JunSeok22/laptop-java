@@ -3,7 +3,7 @@ package exam_project;
 public class test_sample {
 
 	public static void main(String[] args) {
-		System.out.println("½ÃÇèÅ¬·¡½º");
+		System.out.println("ë© íƒ‘ ì— ì„œ ë³´ ëƒ„");
 
 	}
 
